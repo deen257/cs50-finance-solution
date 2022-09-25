@@ -26,6 +26,7 @@ Developers using this project should already have Python3, pip and node installe
 -Start Flask’s built-in web server (within `finance/`):
 
 ```
+   $ SET "FLASK_APP"="app.py"
    $ flask run
 ```
 
